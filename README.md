@@ -6,7 +6,7 @@ Contains codes for the apps created for the 'The Shiny Tutorial' course provided
 
 Details of the course can be found [here](http://shiny.rstudio.com/tutorial/).
 
-### Example Code
+##### Example Code
 
 The "App-1" apps can be run using the following code in R:
 ```
